@@ -1,4 +1,3 @@
-layout_spectrum: 0.5475624967366457
 typography_spectrum: 0.8099490194581449
 color:
   brandStrength: 0.3061583722010255
@@ -11,7 +10,12 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Buro Beta
+layout_spectrum: 0.5475624967366457
 author:
   name: Ivo
   email: ivo@burograat.nl
+name: Buro Beta
+navigation:
+  - name: About
+    id: 862babdd-62d9-4713-b124-69b6ecd8ce3d
+    type: content
