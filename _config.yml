@@ -1,0 +1,14 @@
+layout_spectrum: 0.5475624967366457
+typography_spectrum: 0.8099490194581449
+color:
+  brandStrength: 0.3061583722010255
+  lightness: 0.14958489104174078
+  saturation: 0.04606139217503369
+  rhythmicContrast: 0.3411523357499391
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: BuroBeta
