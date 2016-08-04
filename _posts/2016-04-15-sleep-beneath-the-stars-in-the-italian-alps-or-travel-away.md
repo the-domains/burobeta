@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-04T13:29:58.084Z'
+datePublished: '2016-08-04T16:51:32.664Z'
 sourcePath: >-
   _posts/2016-04-15-sleep-beneath-the-stars-in-the-italian-alps-or-travel-away.md
 inFeed: true
-isBasedOnUrl: 'http://travelaway.me/sleep-beneath-stars-italian-alps/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - starlight
   - mountains
@@ -21,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-04T13:29:57.397Z'
+dateModified: '2016-08-04T16:51:32.114Z'
 title: Sleep Beneath the Stars in the Italian Alps | Travel Away
 app_links: []
 publisher:
@@ -40,6 +39,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: sleep-beneath-the-stars-in-the-italian-alps-or-travel-away/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
